@@ -20,3 +20,6 @@ Controller Demo Video: https://www.bilibili.com/video/BV13k4y1k7Bm
   
 ### Software
   This project utilizes the I/O control library provided by Arduino and an open-source program to process serial communication between the control board and game.
+  
+### Details
+  The detailed information is included in "Report.pdf".
