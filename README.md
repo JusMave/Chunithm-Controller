@@ -2,6 +2,7 @@
 This is a customed controller for SAGA's arcade game "Chunithm".
 
 Official Link: https://chunithm.sega.com/
+
 Controller Demo Video:https://www.bilibili.com/video/BV13k4y1k7Bm
 
 ### Game Introduction
