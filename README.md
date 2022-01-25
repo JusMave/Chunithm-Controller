@@ -3,7 +3,7 @@ This is a customed controller for SAGA's arcade game "Chunithm".
 
 Game Official Link: https://chunithm.sega.com/
 
-Controller Demo Video: https://www.bilibili.com/video/BV13k4y1k7Bm
+My Controller Demo Video: https://www.bilibili.com/video/BV13k4y1k7Bm
 
 ### Game Introduction
   Chunithm is a classical rhythm game with two types of inputs. 
