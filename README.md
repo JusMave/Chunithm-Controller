@@ -5,7 +5,7 @@ Game Official Link: https://chunithm.sega.com/
 
 My Controller Demo Video: https://www.bilibili.com/video/BV13k4y1k7Bm
 
-### Game Introduction
+### Introduction
   Chunithm is a classical rhythm game with two types of inputs. 
   Users need to touch the screen and raise their hands at the right time to pass the game. 
   The official machine uses a 32-channel touch screen and 8 pairs of infrared detectors to track users' actions.
